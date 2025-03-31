@@ -23,7 +23,7 @@ The code implements vehicle detection, tracking, and speed estimation using YOLO
 
    [input](https://github.com/user-attachments/assets/87f0202f-2582-47ea-a417-f2f4ef56afeb)
 
-   Output Video:
+   Output Video (output will update in output video):
 
    [output](https://github.com/user-attachments/assets/ae44c488-8690-442c-92d2-98cbf0461ceb)
 
